@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Specialized since 2013 in .NET applications development for iOS, Android and Windows using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
 
 * 🌍  I'm based in Grenoble, FRANCE
-* ✉️  You can contact me at [jbrunpicard@gmail.com](mailto:jbrunpicard@gmail.com)
+* ✉️  You can contact me at [jbrunpicard@gmail.com](mailto:jeremy.brunpicard@respawnsive.com)
 * 🚀  I'm currently working on [Apizr](http://apizr.net)
 * 🧠  I'm learning Vertical Clean Architecture
 * 🤝  I'm open to collaborating on any useful OSS .NET project
