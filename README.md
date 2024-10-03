@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Solutions Architect - Mobile Expert
 ----------------------------------------
 
-Specialized since 2013 in .NET applications development for iOS, Android and Windows using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
+I'm a .NET Solutions Architect, specialized since 2013 in cross-platform application development for iOS, Android and Windows using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
 
 * 🌍  I'm based in Grenoble, FRANCE
 * ✉️  You can contact me at [jeremy.brunpicard@respawnsive.com](mailto:jeremy.brunpicard@respawnsive.com)
