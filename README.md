@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Solutions Architect building cross-platform applications for iOS, Android and Windows, using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
 
 * 🌍  I'm based in Grenoble, FRANCE
-* 🖥️  You can see my portfolio at [My Protfolio](https://jeremybp.com)
+* 🖥️  You can see my portfolio at [JeremyBP.com](https://jeremybp.com)
 * ✉️  You can contact me at [jeremy.brunpicard@respawnsive.com](mailto:jeremy.brunpicard@respawnsive.com)
 * 🚀  I'm currently working on [Apizr](https://apizr.net)
 * 🧠  I'm learning Vertical Clean Architecture
