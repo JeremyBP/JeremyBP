@@ -1,17 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JeremyBP
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm JeremyBP
 ================================================================================================================================
 
 .NET Solutions Architect - Mobile Expert
 ----------------------------------------
 
-I'm a .NET Solutions Architect, specialized since 2013 in cross-platform application development for iOS, Android and Windows using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
+.NET Solutions Architect building cross-platform applications for iOS, Android and Windows, using technologies such as Xamarin/MAUI/Uno/Avalonia and Microsoft Azure.
 
 * 🌍  I'm based in Grenoble, FRANCE
+* 🖥️  You can see my portfolio at [My Protfolio](https://jeremybp.com)
 * ✉️  You can contact me at [jeremy.brunpicard@respawnsive.com](mailto:jeremy.brunpicard@respawnsive.com)
-* 🚀  I'm currently working on [Apizr](http://apizr.net)
+* 🚀  I'm currently working on [Apizr](https://apizr.net)
 * 🧠  I'm learning Vertical Clean Architecture
 * 🤝  I'm open to collaborating on any useful OSS .NET project
-* ⚡  Interested in Software Craftmanship
+* ⚡  I'm interested in Software Craftmanship
 
 ### Skills
 
